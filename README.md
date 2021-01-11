@@ -1,5 +1,5 @@
 # jogo-da-memoria
-<div align="center">🎮[Demontração](https://felipe91v.github.io/jogo-da-memoria/)</div>
+🎮[Demontração](https://felipe91v.github.io/jogo-da-memoria/)
 
 ***
 
